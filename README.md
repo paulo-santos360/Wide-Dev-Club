@@ -16,7 +16,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## :page_with_curl: Como Contribuir
 
